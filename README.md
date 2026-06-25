@@ -1,4 +1,4 @@
-Hi i'm Giuseppe, i like exploring areas of malwares and cryptography, listening to jazz, rap and trap.
+Hi i'm Giuseppe, i like decentralization, cryptography, formal verifications, listening to jazz, rap and trap.
 
 ---
 
